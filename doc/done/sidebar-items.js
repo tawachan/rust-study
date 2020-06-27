@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["array",""],["enums",""],["generics",""],["handle_none",""],["hash_map",""],["hash_set",""],["match_and_memory",""],["numbers","this func is numbers obviously"],["pattern_matching",""],["scope",""],["slice",""],["string_loop",""],["strings",""],["tupple",""],["union",""],["vectors",""]]});

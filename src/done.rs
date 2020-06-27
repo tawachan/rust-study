@@ -1,7 +1,21 @@
+//! this module contains codes already studied
+//! # Examples
+//! ```
+//! pub fn scope() {
+//!   let a = 1;
+//!   println!("a = {}", a);
+//!   {
+//!   let a = 10;
+//!     println!("a = {}", a);
+//!   }
+//! }
+//! ```
+
 use std::collections::HashMap;
 use std::collections::HashSet;
 use std::mem;
 
+/// this func is numbers obviously
 pub fn numbers() {
   let a: u8 = 123;
   println!("a = {}", a);

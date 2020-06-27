@@ -1,5 +1,6 @@
 mod done;
 
+/// main func
 fn main() {
   done::numbers();
   done::scope();
